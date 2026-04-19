@@ -19,7 +19,7 @@ A real-time cognitive assessment app built with R Shiny — featuring reaction t
 
 ---
 
-## 🚦 Fatigue Detection Logic
+##  Fatigue Detection Logic
 
 The app analyses 4 signals automatically:
 
@@ -48,7 +48,7 @@ Accuracy Trend  →  Is Stroop accuracy getting worse over time?
 
 
 
-## 📄 Session Report
+## Session Report
 
 Click **Download Report** in the Dashboard tab to get a full HTML report including:
 
@@ -59,7 +59,7 @@ Click **Download Report** in the Dashboard tab to get a full HTML report includi
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **[R Shiny](https://shiny.posit.co/)** — Reactive web framework
 - **[ggplot2](https://ggplot2.tidyverse.org/)** — Trend charts
@@ -69,7 +69,7 @@ Click **Download Report** in the Dashboard tab to get a full HTML report includi
 
 ---
 
-## 📜 License
+## License
 
 MIT — free to use, modify, and share.
 
