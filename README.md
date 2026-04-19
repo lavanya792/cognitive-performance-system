@@ -45,7 +45,7 @@ Accuracy Trend  →  Is Stroop accuracy getting worse over time?
 ⚠  Fatigued              →  2+ signals — take a break
 ```
 
----
+
 
 
 ## 📄 Session Report
